@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# Betur JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
@@ -657,10 +657,10 @@
 
 ## <a name='whitespace'>Whitespace</a>
 
-  - Use soft tabs set to 2 spaces
+  - Use soft tabs set to 4 spaces
 
     ```javascript
-    // bad
+    // good
     function() {
     ∙∙∙∙var name;
     }
@@ -670,7 +670,6 @@
     ∙ var name;
     }
 
-    // good
     function() {
     ∙∙var name;
     }

@@ -43,8 +43,8 @@
       // Suppress warnings about == null comparisons.
       "eqnull": true,
 
-      // Enforce a tab width of 2 spaces.
-      "indent": 2,
+      // Enforce a tab width of 4 spaces.
+      "indent": 4,
 
       // Prohibit the use of a variable before it was defined.
       "latedef": true,
